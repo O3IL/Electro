@@ -1,0 +1,51 @@
+EffÉcran
+Disp "","
+Disp "         --------
+Disp "        { .O3IL. }
+Disp "       { Electro. }
+Disp "        { .O3IL. }
+Disp "         --------
+Disp "
+Wait 3
+EffÉcran
+Disp "","","","
+Disp "          {00.0}
+Wait 0.5
+EffÉcran
+Disp "","","","
+Disp "**        {14.2}
+Wait 0.5
+EffÉcran
+Disp "","","","
+Disp "******    {30.4}
+Wait 0.5
+EffÉcran
+Disp "","","","
+Disp "**********{51.6}
+Wait 0.5
+EffÉcran
+Disp "","","","
+Disp "**********{62.4}**
+Wait 0.5
+EffÉcran
+Disp "","","","
+Disp "**********{70.1}****
+Wait 0.5
+EffÉcran
+Disp "","","","
+Disp "**********{98.0}*********
+Wait 0.5
+EffÉcran
+Disp "","","","
+Disp "**********{100.}**********
+Disp "","","
+Wait 0.7
+EffÉcran
+Disp "","
+Disp "         --------
+Disp "        { .O3IL. }
+Disp "       { Electro. }
+Disp "        { .O3IL. }
+Disp "         --------
+Wait 1
+EffÉcran

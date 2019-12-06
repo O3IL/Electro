@@ -1,0 +1,22 @@
+EffÉcran
+Input "A=",A
+Input "B=",B
+Input "C=",C
+B²-4AC→D
+Disp "","="+versChaîne(D),"
+If D>0
+Then
+Disp "2 Solutions :","
+Disp "X1=",(­B-√(D))/(2A)Frac
+Disp "X2=",(­B+√(D))/(2A)Frac
+Else
+If D=0
+Then
+Disp "1 Solution :
+Disp "X0=",­B(2A)Frac
+Else
+If D<0
+Then
+Disp "0 Solution
+End
+End
