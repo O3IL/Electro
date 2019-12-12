@@ -1,0 +1,64 @@
+Lbl 1
+EffÉcran
+Menu("A propos:","Electro",2,"Modules",3,"Contributeurs",4,"Fetch",5,"Quitter",0
+End
+
+Lbl 0
+Stop
+End
+
+Lbl 2
+EffÉcran
+Disp "--------------------------
+Disp "Version:   1912.12
+Disp "Createur:  O3IL
+Disp "GitHub:    O3IL
+Wait 3
+Goto 1
+
+Lbl 3
+EffÉcran
+Disp "--------------------------
+Disp "Charge:    KIPIV
+Disp "Pythagore: PYTAGOGO
+Disp "Table:     TABLEMUL
+Wait 3
+Goto 1
+
+Lbl 4
+Disp "--------------------------
+Disp "Fondateur: FJduFou
+Disp "Aide:      TI-Planet
+Wait 3
+Goto 1
+
+Lbl 5
+Menu("Fetch","Electro",6,"O3IL",7,"Rretour",1
+
+Lbl 6
+EffÉcran
+Disp "--------------------------
+Disp "888 8  888 888 888 888 888
+Disp "8   8  8   8    8  8 8 8 8
+Disp "88  8  88  8    8  88  8 8
+Disp "8   8  8   8    8  8 8 8 8
+Disp "888 88 888 888  8  8 8 888
+Disp "--------------------------
+Disp "­­­­­­­­­­­­­­­­­­­­­­­­­­
+Disp "·•By O3IL•·  ·•V.1912.12•·
+Wait 5
+Goto 1
+
+Lbl 7
+EffÉcran
+Disp "
+Disp "   88888           0   8
+Disp "  8     8             8
+Disp "  8     8        8   8
+Disp "  8     8  88   8   8
+Disp "   88888     8  88  88888
+Disp "           88     
+Disp "             8
+Disp "           88         O3IL
+Wait 5
+Goto 1
