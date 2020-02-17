@@ -9,56 +9,32 @@ End
 
 Lbl 2
 EffÉcran
-Disp "--------------------------
-Disp "Version:   1912.12
-Disp "Createur:  O3IL
-Disp "GitHub:    O3IL
+Disp "--------------------------","Version:   2001.09","Createur:  O3IL","GitHub:    O3IL","Outils:    Leviathan","           CEmu
 Wait 3
 Goto 1
 
 Lbl 3
 EffÉcran
-Disp "--------------------------
-Disp "Charge:    KIPIV
-Disp "Pythagore: PYTAGOGO
-Disp "Table:     TABLEMUL
+Disp "--------------------------","Charge:    KIPIV","Pythagore: Pytagogo","Table:     Tablemul","Delta:     Delta","Compteur:  Clickez
 Wait 3
 Goto 1
 
 Lbl 4
-Disp "--------------------------
-Disp "Fondateur: FJduFou
-Disp "Aide:      TI-Planet
+Disp "--------------------------","Fondateur: FJduFou","Aide:      TI-Planet
 Wait 3
 Goto 1
 
 Lbl 5
-Menu("Fetch","Electro",6,"O3IL",7,"Rretour",1
+Menu("Fetch:","Electro",6,"O3IL",7,"Retour",1
 
 Lbl 6
 EffÉcran
-Disp "--------------------------
-Disp "888 8  888 888 888 888 888
-Disp "8   8  8   8    8  8 8 8 8
-Disp "88  8  88  8    8  88  8 8
-Disp "8   8  8   8    8  8 8 8 8
-Disp "888 88 888 888  8  8 8 888
-Disp "--------------------------
-Disp "­­­­­­­­­­­­­­­­­­­­­­­­­­
-Disp "·•By O3IL•·  ·•V.1912.12•·
+Disp "--------------------------","888 8  888 888 888 888 888","8   8  8   8    8  8 8 8 8","88  8  88  8    8  88  8 8","8   8  8   8    8  8 8 8 8","888 88 888 888  8  8 8 888","--------------------------","­­­­­­­­­­­­­­­­­­­­­­­­­­","·•By O3IL•·  ·•V.2001.09•·
 Wait 5
-Goto 1
+Goto 5
 
 Lbl 7
 EffÉcran
-Disp "
-Disp "   88888           0   8
-Disp "  8     8             8
-Disp "  8     8        8   8
-Disp "  8     8  88   8   8
-Disp "   88888     8  88  88888
-Disp "           88     
-Disp "             8
-Disp "           88         O3IL
+Disp "","   88888           0   8","  8     8             8","  8     8        8   8","  8     8  88   8   8","   88888     8  88  88888","           88","             8","           88         O3IL
 Wait 5
-Goto 1
+Goto 5

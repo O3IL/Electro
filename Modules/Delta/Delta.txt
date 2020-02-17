@@ -1,14 +1,20 @@
 EffÉcran
-Input "A=",A
-Input "B=",B
-Input "C=",C
+Disp "--------------------------
+Input "x²=",A
+Input "x =",B
+Input "C =",C
 B²-4AC→D
-Disp "","="+versChaîne(D),"
+EffÉcran
+Disp "--------------------------
+Disp "="+versChaîne(D)
+Disp " ="+versChaîne(B)+"²-4"+versChaîne(A)+"*"+versChaîne(C
 If D>0
 Then
-Disp "2 Solutions :","
-Disp "X1=",(­B-√(D))/(2A)Frac
-Disp "X2=",(­B+√(D))/(2A)Frac
+Disp "Il y a 2 solutions:
+Disp "X1="+versChaîne((­B-√(D))/(2A))
+Disp "  =(­"+versChaîne(B)+"-√("+versChaîne(D)+"))/(2*"+versChaîne(A)+"))"
+Disp "X2="+versChaîne((­B+√(D))/(2A))
+Disp "  =(­"+versChaîne(B)+"+√("+versChaîne(D)+"))/(2*"+versChaîne(A)+"))"
 Else
 If D=0
 Then

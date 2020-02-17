@@ -1,0 +1,40 @@
+EffÉcran
+Menu("Type de partie:","Test",1,"Stats",2
+Lbl 1
+1→C
+affMintr(1)→A
+affMintr(1)→B
+While B-A<5
+If getKey=105
+Then
+C+1→C
+Disp C
+affMintr(1)→B
+End
+End
+EffÉcran
+Disp "--------------------------
+Disp "Votre résultat:
+C/5→C
+Disp C
+If 10<C
+Then
+Disp "Leviathan!
+Else
+If 7<C
+Then
+Disp "Monstre!
+Else
+If 5<C
+Then
+Disp "Super.
+Else
+If 3<C
+Then
+Disp "Passable...
+Else
+If 1>C
+Then
+Disp "Minable!
+End
+Wait 3
